@@ -1,1 +1,16 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### This was created as part of Learning Lab for GitHub. 
+### The content is abbreviated and not checked for accuracy or errors.
+### This is only a training exercise.
+
+# Skills
+
+Below is a list of my **technical** skills:
+
+## Markup and Front-End Development
+- *HTML*
+- *CSS*
+- *JavaScript*
+
+## Programing Languages
+- *Ruby*
+- *Python*
